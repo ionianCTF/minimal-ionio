@@ -1,5 +1,3 @@
-<!--
-Puprosely commented so the "Learn More" links/buttons dissapear.
 {% if include.id %}
   {% assign feature_row = page[include.id] %}
 {% else %}
@@ -41,4 +39,3 @@ Puprosely commented so the "Learn More" links/buttons dissapear.
   {% endfor %}
 
 </div>
--->
